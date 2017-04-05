@@ -1,0 +1,11 @@
+using UnityEngine;
+using System.Collections;
+
+public class Test : MonoBehaviour {
+
+    void Start() {
+        string name;
+        name = "GDragon";
+        Debug.Log(name);
+    }
+}

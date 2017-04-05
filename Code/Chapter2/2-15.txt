@@ -1,0 +1,14 @@
+using UnityEngine;
+using System.Collections;
+
+public class Test : MonoBehaviour {
+
+    void Start() {
+        int hp = 200;
+        if(hp >= 100) {
+            Debug.Log("공격!");
+        } else {
+            Debug.Log("방어!");
+        }
+    }
+}

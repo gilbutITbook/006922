@@ -1,0 +1,11 @@
+using UnityEngine;
+using System.Collections;
+
+public class Test : MonoBehaviour {
+
+    void Start() {
+        for(int i = 3; i >= 0; i--) {
+            Debug.Log(i);
+        }
+    }
+}

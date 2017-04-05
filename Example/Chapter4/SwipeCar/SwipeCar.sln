@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{C212262B-C95A-D43E-6A9F-0152B9C6CE9C}") = "SwipeCar", "Assembly-CSharp.csproj", "{B3920A25-F12C-143C-1AA2-F5F519640B8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3920A25-F12C-143C-1AA2-F5F519640B8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3920A25-F12C-143C-1AA2-F5F519640B8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3920A25-F12C-143C-1AA2-F5F519640B8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3920A25-F12C-143C-1AA2-F5F519640B8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{C1EFA7E1-EFF2-AADA-5FFF-0B36A79DE14D}") = "CatEscape", "Assembly-CSharp.csproj", "{6DD6A6FF-9664-2BEB-A923-41918087432D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DD6A6FF-9664-2BEB-A923-41918087432D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DD6A6FF-9664-2BEB-A923-41918087432D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DD6A6FF-9664-2BEB-A923-41918087432D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DD6A6FF-9664-2BEB-A923-41918087432D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
